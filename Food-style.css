@@ -1,0 +1,37 @@
+div{
+    margin:auto;
+    background-color: white;
+    padding:50px;
+    max-width:450px;
+}
+body{
+    font-size:12px;
+}
+h1{
+    font-size:30px;
+}
+img{
+    border-radius:20px;
+}
+p{
+    font-family:Cambria;
+}
+.prep{
+    background-color:#f5ebf3;
+    padding:10px;
+    border-radius:10px;
+}
+.item{
+    color:#a16210;
+    font-weight:bold;
+}
+.dis{
+    padding:5px;
+}
+td{
+    border-bottom:1px solid black;
+    padding:10px;
+}
+table{
+   width:100%;
+}
